@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Ashley!
+
+I have always loved learning about how technology has worked, even as a kid.
+
+Skills: C++, C, Python, Java, VS Code, IntelliJ, Unit testing, Problem Solving, Leadership
 
 <!--
 **AshleyD50/AshleyD50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
