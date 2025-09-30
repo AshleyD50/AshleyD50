@@ -1,6 +1,5 @@
 ## Hi, I'm Ashley!
 
-I have always loved learning about how technology has worked, even as a kid.
 
 Skills: C++, C, Python, Java, VS Code, IntelliJ, Unit testing, Problem Solving, Leadership
 
